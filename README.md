@@ -16,9 +16,9 @@
 
 ## 前置条件
 
-- **通义听悟账号**：注册申请阿里通义听悟API权限。可使用该链接注册进行在线体验：https://tingwu.aliyun.com/u/g34dn8e5ze8nwjzm
-  **通义听悟API**：[注册申请阿里通义听悟API权限。可使用该链接注册进行在线体验：https://tingwu.aliyun.com/u/g34dn8e5ze8nwjzm](https://help.aliyun.com/document_detail/2619237.html?spm=a2c4g.11174283.0.0.2273679atzZIIr)
-  **阿里云oss服务**：开通阿里云oss服务
+- **通义听悟账号**：注册申请阿里通义听悟API权限。可使用该链接注册进行在线体验：https://tingwu.aliyun.com/u/g34dn8e5ze8nwjzm。
+  **通义听悟API**：[注册申请阿里通义听悟API权限。可使用该链接注册进行在线体验：https://tingwu.aliyun.com/u/g34dn8e5ze8nwjzm](https://help.aliyun.com/document_detail/2619237.html?spm=a2c4g.11174283.0.0.2273679atzZIIr)。
+  **阿里云oss服务**：开通阿里云oss服务。
 ## 安装
 
 要在本地安装并运行此项目，请按照以下步骤操作：
